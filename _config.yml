@@ -1,0 +1,9 @@
+title: Ivebe
+description: Software, Web apps/packages, and little more by Ivebe.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-cayman.gemspec

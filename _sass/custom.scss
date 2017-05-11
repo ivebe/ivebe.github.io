@@ -1,0 +1,163 @@
+article {
+  text-align: justify;
+  padding-bottom: 2rem;
+}
+
+article:before{
+  content: '';
+  display: block;
+  border-top: solid 1px #eff0f1;
+  padding-top: 2rem;
+}
+
+article:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.blog-img-div {
+
+  float: left;
+  text-align: center;
+
+  @include large {
+    width: 25%;
+  }
+
+  @include medium {
+    width: 30%;
+  }
+
+  @include small {
+    width: 100%;
+  }
+}
+
+
+.blog-text-div {
+
+  float: right;
+
+  @include large {
+    width: 75%;
+  }
+
+  @include medium {
+    width: 70%;
+  }
+
+  @include small {
+    width: 100%;
+  }
+}
+
+
+.blog-article-title {
+  margin-top: 0;
+  margin-bottom: 0 !important;
+
+  @include large {
+    font-size: 2.25rem;
+  }
+
+  @include medium {
+    font-size: 1.25rem;
+  }
+
+  @include small {
+    font-size: 0.75rem;
+  }
+}
+
+.blog-article-tagline {
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7;
+  margin-top: 0 !important;
+
+  @include large {
+    font-size: 1.15rem;
+  }
+
+  @include medium {
+    font-size: 1.05rem;
+  }
+
+  @include small {
+    font-size: 0.9rem;
+  }
+}
+
+.blog-info {
+  list-style: none;
+  margin: 20px 0;
+  padding: 8px 0;
+  border-top: solid 1px #ECEBEB;
+  border-bottom: solid 1px #ECEBEB;
+}
+.blog-info li {
+  padding: 0;
+  color: #555;
+  font-size: 13px;
+  margin-right: 10px;
+  display: inline-block;
+  padding-left: 13px;
+  border-left: solid 1px #ECEBEB;
+}
+.blog-info li:first-child {
+  padding-left: 0;
+  border-left: none;
+}
+
+a:hover{
+  color:#E02222;
+}
+
+
+.console {
+  position: relative;
+  display: inline-block;
+  font-family: Monaco, Arial, Helvetica, sans-serif;
+  line-height: 24px;
+  font-size: 24px;
+  color: white;
+  min-width: 360px;
+}
+
+.console::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  background-color: #606060;
+  vertical-align: top;
+  width: 10px;
+  height: 24px;
+  -webkit-animation: blink 1s step-end infinite;
+  animation: blink 1s step-end infinite;
+}
+
+@-webkit-keyframes blink {
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+}
+
+@keyframes blink {
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+}
+
+.center {
+  text-align: center;
+}
+
+.black {
+  color: #000000;
+}
+
+body{
+  text-align: justify;
+}
