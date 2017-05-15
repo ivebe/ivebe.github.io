@@ -1,7 +1,9 @@
+url: https://ivebe.com
+enforce_ssl: ivebe.com
 title: Ivebe
 description: Software, Web apps/packages, and little more by Ivebe.
 show_downloads: true
-google_analytics:
+google_analytics: UA-19939845-3
 theme: jekyll-theme-cayman
 exclude:
   - Gemfile
