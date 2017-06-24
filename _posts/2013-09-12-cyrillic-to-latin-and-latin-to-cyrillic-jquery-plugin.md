@@ -254,7 +254,7 @@ onL2C
 : Funkcija koja će se pozvati po završenoj transliteraciji L2C. Default: undefined.
 
 
-Možete pogledati DEMO a možete i skinuti izvorni kod. Ukoliko vam se svideo plugin ne zaboravite da lajkujete/podelite ovaj blog sa drugima kako bi ga i drugi koristili. Ukoliko primetite neki bug, prijavite ga preko forme na početnoj strani.
+Ovde mozete <a href="https://github.com/ivebe/CyrLatConverter/archive/master.zip">**skinuti ( DOWNLOAD )**</a> najnoviji kod, a ukoliko vam se svideo plugin ne zaboravite da lajkujete/podelite ovaj blog sa drugima kako bi ga i drugi koristili. Ukoliko primetite neki bug, prijavite ga u komentarima, ili na GitHub stranici.
 
 <ul class="blog-info">
 <li><i class="fa fa-user"></i> By Dan</li>
