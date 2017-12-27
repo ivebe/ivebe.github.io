@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/cyrillic-to-latin-and-latin-to-cyrillic-jquery-plugin-es6.html
+permalink: /blog/cyrillic-to-latin-and-latin-to-cyrillic-jquery-plugin.html
 image: exchange.png
 description: CyrLatConverter je plugin za jQuery koji radi preslovljavanje iz ćirilice u latinicu i obrnuto. Pogledajte ovaj tutorijal i primer upotrebe plugin-a.
 category: RS, Intermediate, jQuery
