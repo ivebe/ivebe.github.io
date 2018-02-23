@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/cyrillic-to-latin-and-latin-to-cyrillic-javascript-library.html
-image: exchange.png
+image: js.png
 description: CyrLatConverter je javascript biblioteka koji radi preslovljavanje iz ćirilice u latinicu i obrnuto. Pogledajte ovaj tutorijal i primer upotrebe biblioteke.
 category: RS, Intermediate, VanillaJS, JavaScript
 comments: true
