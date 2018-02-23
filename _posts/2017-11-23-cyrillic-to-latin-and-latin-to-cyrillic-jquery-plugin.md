@@ -40,8 +40,8 @@ Pogledajte uputstvo za korišćenje plugin-a koje je krajnje jednostavno. Plugin
 </head>
 <body>
 
-<a href="#" class=".cyr">ćirilica</a>
-<a href="#" class=".lat">latinica</a>
+<a href="#" class="cyr">ćirilica</a>
+<a href="#" class="lat">latinica</a>
 
 ... neki sadrzaj ...
 
@@ -68,8 +68,8 @@ Pogledajte uputstvo za korišćenje plugin-a koje je krajnje jednostavno. Plugin
 </head>
 <body>
 
-<a href="#" class=".cyr">ćirilica</a>
-<a href="#" class=".lat">latinica</a>
+<a href="#" class="cyr">ćirilica</a>
+<a href="#" class="lat">latinica</a>
 
 ... neki sadrzaj ...
 
