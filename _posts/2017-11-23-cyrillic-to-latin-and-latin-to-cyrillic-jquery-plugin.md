@@ -7,6 +7,8 @@ category: RS, Intermediate, jQuery
 comments: true
 ---
 
+<div class="alert">Preporučujem prelazak na verziju biblioteke koja ne koristi jQuery. Članak o njoj možete pronaći <a href="https://ivebe.com/blog/cyrillic-to-latin-and-latin-to-cyrillic-javascript-library.html">ovde</a></div>
+
 # CyrLatConverter - jQuery plugin za prebacivanje teksta u ćirilicu ili latinicu
 
 CyrLatConverter je jQuery plugin koji radi transliteraciju sadržaja iz latinince u ćirilicu, kao i iz ćirilice u latinicu. Transliteracija je relativno brza, i na prosečnim web stranicama, na računarima prosečne konfiguracije, brzina se meri u nekoliko desetina milisekundi. Prednost korišćenja jQuery plugin-a za transliteraciju je taj što nema potrebe za održavanjem dve različite verzije za ćirilicu i latinicu, kao i indeksiranje stranice od strane pretraživača može biti na latinici, a onda dinamički prebaciti sadržaj u ćirilicu.  
